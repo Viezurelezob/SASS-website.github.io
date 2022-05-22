@@ -1,0 +1,46 @@
+/* 
+Specificitate in css :
+1.inline styles
+2.ids
+3.classes, pseudoclases, atribute
+4.elements, pseudoelements
+
+css declaration care au !important au cea mai mare prioritate
+
+* universal selector
+
+Cele mai folosite atribute sunt:
+
+margin
+padding
+box-sizing
+font-family
+font-weight
+font-size
+line-height
+color
+background-color
+position
+text-align: center;
+display: block;
+letter-spacing
+border-radius
+transition
+transform
+
+REM:1.5rem, cu un default font size de 16 inseamna 1.5*16=24px
+font-size:1.5rem =>>> 24px
+
+90vh viewport height = 90% of current viewport height
+90vw viewport width = 90% of current viewport width
+
+Ce inseamna box-sizing:border-box ?
+se adauga si padding-ul la inaltime si latimea totala a contentului si nu se ia in considerare cat este
+ex: width:100px, daca paddding right si left este de 20px , latimea totala a box ului va fi tot de 100px
+
+Float: text and inline elements will wrap around the floated element the container will not adjust its height to the element
+
+Absolute position: we use top, bottom... to offset the element from its relative positionedcontainer
+*/
+
+
